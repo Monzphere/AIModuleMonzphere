@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/cf7421f3-503d-4f3d-a2cd-cf74b3811179)
 
-
+###If this module is useful to you, tag us on LinkedIn Monzphere to encourage more innovations like this
 
 This guide will walk you through setting up and using the **#AIModuleMonzphere**, which leverages Gemini Nano through the browser.
 

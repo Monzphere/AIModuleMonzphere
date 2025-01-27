@@ -13,7 +13,7 @@ This guide will walk you through setting up and using the **#AIModuleMonzphere**
 ---
 
 ## Prerequisites
-1. **Chrome Canary Browser**  
+1. **Chrome Browser**  
    Ensure you are using version **128.0.6545.0** or later.
 
 2. **Access to Gemini Nano**  

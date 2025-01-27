@@ -1,5 +1,8 @@
 # Tutorial: Using the #AIModuleMonzphere with Gemini Nano
 
+![image](https://github.com/user-attachments/assets/73fd3456-5e11-4980-8445-978dc38dd609)
+
+
 This guide will walk you through setting up and using the **#AIModuleMonzphere**, which leverages Gemini Nano through the browser.
 
 ---

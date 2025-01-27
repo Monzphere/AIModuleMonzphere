@@ -1,0 +1,50 @@
+
+
+.iachrome-modal-wrapper {
+    z-index: 1000;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.iachrome-modal {
+    font-size: 14px;
+}
+
+.iachrome-loading {
+    color: #666;
+    text-align: center;
+    padding: 20px;
+}
+
+.iachrome-text {
+    color: #333;
+    font-size: 13px;
+    padding-left: 0;
+}
+
+.iachrome-text br + br {
+    display: block;
+    margin: 10px 0;
+    content: "";
+}
+
+.iachrome-dialogue {
+    min-width: 800px !important;
+}
+
+.iachrome-result {
+    background: #f8f9fa !important;
+}
+
+.iachrome-problem {
+    background: white;
+}
+
+.iachrome-error {
+    padding: 10px;
+}
+
+.iachrome-response {
+    text-align: left !important;
+}

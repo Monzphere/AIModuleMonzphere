@@ -2,6 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/73fd3456-5e11-4980-8445-978dc38dd609)
 
+## The button to analyze the incident is available in the problems tab:
+
+![image](https://github.com/user-attachments/assets/cf7421f3-503d-4f3d-a2cd-cf74b3811179)
+
+
 
 This guide will walk you through setting up and using the **#AIModuleMonzphere**, which leverages Gemini Nano through the browser.
 

@@ -32,9 +32,9 @@ If you don’t already have Chrome installed, follow these steps:
 1. Open Chrome(Run as administrator).
 2. Type `chrome://version` in the address bar and press Enter.
 3. Confirm the version is **128.0.6545.0** or above. If not, update Chrome.
-   Go to chrome://flags/#optimization-guide-on-device-model. Select Enabled BypassPerfRequirement
-   Go to chrome://flags/#prompt-api-for-gemini-nano. Select Enabled
-4. Check in chrome://components/ if the Optimization Guide On Device Model is downloaded, otherwise click update
+4. Go to chrome://flags/#optimization-guide-on-device-model. Select Enabled BypassPerfRequirement
+5. Go to chrome://flags/#prompt-api-for-gemini-nano. Select Enabled
+6. Check in chrome://components/ if the Optimization Guide On Device Model is downloaded, otherwise click update
 
 ---
 

@@ -31,3 +31,20 @@ If you don’t already have Chrome installed, follow these steps:
 To activate the required features for Gemini Nano, follow these steps:
 ![Active](https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZPRqC5EDhDytbZiUsXg8Ug.png)
 
+---
+
+## Step 4: Enable Module in Zabbix:
+
+- Go to Modules configuration:
+
+![image](https://github.com/user-attachments/assets/14353e7c-d48a-41ae-a556-2723ab61cfa2)
+
+- Click to Scan:
+
+ ![image](https://github.com/user-attachments/assets/c8b3e5ac-6381-4ffe-8e61-f61e35142d0b)
+
+- Enable module:
+
+![image](https://github.com/user-attachments/assets/2b9fe894-b874-49bd-be13-bc479d3be404)
+
+

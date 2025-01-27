@@ -29,9 +29,12 @@ If you don’t already have Chrome installed, follow these steps:
 ---
 
 ## Step 2: Verify the Chrome Version
-1. Open Chrome.
+1. Open Chrome(Run as administrator).
 2. Type `chrome://version` in the address bar and press Enter.
-3. Confirm the version is **128.0.6545.0** or above. If not, update Chrome Canary.
+3. Confirm the version is **128.0.6545.0** or above. If not, update Chrome.
+   Go to chrome://flags/#optimization-guide-on-device-model. Select Enabled BypassPerfRequirement
+   Go to chrome://flags/#prompt-api-for-gemini-nano. Select Enabled
+4. Check in chrome://components/ if the Optimization Guide On Device Model is downloaded, otherwise click update
 
 ---
 
@@ -55,9 +58,7 @@ To activate the required features for Gemini Nano, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/2b9fe894-b874-49bd-be13-bc479d3be404)
 
-## Resolution to install:
 
-![image](https://github.com/user-attachments/assets/18de2e4d-1cff-464e-abf1-223cc149a51d)
 
 
 

@@ -55,4 +55,9 @@ To activate the required features for Gemini Nano, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/2b9fe894-b874-49bd-be13-bc479d3be404)
 
+## Resolution to install:
+
+![image](https://github.com/user-attachments/assets/18de2e4d-1cff-464e-abf1-223cc149a51d)
+
+
 

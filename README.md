@@ -35,6 +35,8 @@ If you don’t already have Chrome installed, follow these steps:
 4. Go to chrome://flags/#optimization-guide-on-device-model. Select Enabled BypassPerfRequirement
 5. Go to chrome://flags/#prompt-api-for-gemini-nano. Select Enabled
 6. Check in chrome://components/ if the Optimization Guide On Device Model is downloaded, otherwise click update
+   - ![image](https://github.com/user-attachments/assets/e1427f27-bc00-491d-a202-39ec820922d3)
+
 
 ---
 
